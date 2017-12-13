@@ -20,11 +20,6 @@ public class Principal {
        Auto auto = autoDirector.build();
        
        info_auto(auto);
-       
-       /*autoDirector.setBuildAuto(new BuildRenault());
-       auto = autoDirector.build();
-       
-       info_auto(auto);*/
    }
    
    private static void info_auto(Auto auto) {
